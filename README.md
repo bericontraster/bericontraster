@@ -1,3 +1,5 @@
+# Hi, I'm Muhammad Zubair!
+## Offensive Security Specialist
 # 💫 About Me:
 👋 Hi there! I'm Beri Contraster, a passionate Cyber Security Professional with a knack for penetration testing, server administration, and cybersecurity research.<br><br>🔒 Cybersecurity Enthusiast: I'm focused on securing systems and exploring vulnerabilities. With my OSCP and CPTS certifications, I've gained hands-on expertise in offensive security techniques and methodologies.<br><br>🌐 Home Server Projects: I run Linux/Windows home servers to deepen my understanding of system administration and experiment with security configurations and setups.<br><br>🖥️ Content Creator: I love sharing my knowledge through CTF writeups, cybersecurity tutorials, and tech explorations. Check out my blog for insights and stories about figures like Linus Torvalds.<br><br>💼 Career Goals: I'm seeking a role as a Penetration Tester or a similar position where I can leverage my skills to protect and improve digital landscapes. Open to opportunities, particularly in countries near Pakistan or in Dubai.<br><br>Let's connect and make the digital world a safer place together!
 
