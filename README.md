@@ -5,7 +5,7 @@ Offensive Security Professional with 2+ years of hands-on experience in penetrat
 
 <h2>Offensive Security Projects</h2>
 
-- <b>Certified Penetration Testing Professional(CPTP)</b>
+- <b>Certified Penetration Testing Professional (CPTP)</b>
   - I designed and developed a full CPTP course for [Tranchulas](https://tranchulas.com/). Developed and delivered CPTP with official content rights from [NCSC](https://www.ncsc.gov.uk/), [CREST](https://www.crest-approved.org/), and [MPG International](https://apmg-international.com/).
 - <b>Certified Web Application Penetration Security Professional (CWASP)</b>
   - I designed and developed a full CWASP course for [Tranchulas](https://tranchulas.com/). Developed and delivered CPTP with official content rights from [NCSC](https://www.ncsc.gov.uk/) and [CREST](https://www.crest-approved.org/), and [MPG International](https://apmg-international.com/).
