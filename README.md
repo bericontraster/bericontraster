@@ -1,4 +1,7 @@
-<h1>Hi, I'm Muhammad Zubair! <br> <a href="https://www.credential.net/677f4c26-3f2b-4a12-9b14-dbb45565d6a8#acc.BstT7jig">Offensive Security Specialist</a></h1>
+<h1>Hi, I'm Muhammad Zubair! <br> <a href="https://www.credential.net/677f4c26-3f2b-4a12-9b14-dbb45565d6a8#acc.BstT7jig">Offensive Security Professional</a></h1>
+
+<h2>Summary</h2>
+Offensive Security Professional with 2+ years of hands-on experience in penetration testing, and red team operations. <b>OSCP</b>-certified and currently advancing in <b>malware development</b> to simulate advanced persistent threats. Successfully designed and delivered two enterprise-grade training programs (CPTP & CWASP) aligned with NCSC, CREST, and APMG standards. Led full-scope internal and external penetration tests and built a 30+ machine cyber lab using Proxmox and OpenVPN to support real-world adversarial simulation. Proven ability to engineer attack paths, exploit critical vulnerabilities, and mentor technical teams through high-impact training and simulation.
 
 <h2>Offensive Security Projects</h2>
 
