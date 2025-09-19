@@ -24,13 +24,8 @@ Offensive Security Professional with 2+ years of hands-on experience in penetrat
 
 <h2>Compliance & Enterprise Security Solutions</h2>
 
-- <b>Enterprise Compliance & Monitoring Platform</b>
-  - Spearheaded the Essentials Project, delivering a cross-platform compliance and monitoring solution within 7 months.
-  - Designed and deployed a Python3 Flask backend with a scalable architecture and secure role-based access control.
-  - Built a client-facing dashboard enabling organizations to monitor agents, generate compliance reports, and manage deployments centrally.
-  - Delivered a cross-platform agent (Windows, macOS, Linux) to assess systems against the Essential Eight framework, strengthening client security posture.
-  - Enabled real-time visibility and control, allowing clients to block agents, enforce compliance, and maintain oversight across employee devices.
-  - Drove end-to-end development (backend, frontend, reporting, and role management), ensuring a seamless and business-ready product launch.
+- <b>Enterprise Compliance & Monitoring Platform (Essentials Eight)</b>
+  - Essentials Project (7 months) – Led end-to-end development of a cross-platform compliance monitoring solution. Built a Python3 Flask backend with a secure, role-based client dashboard for managing agents. Delivered Windows, macOS, and Linux client agents to assess systems against the Essential Eight framework, with features including reporting, agent blocking, and centralized management.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bericontraster) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mhamd-zubair) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bericontraster) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bericontraster) 
