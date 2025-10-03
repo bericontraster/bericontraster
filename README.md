@@ -2,9 +2,13 @@
 
 <h2>Summary</h2>
 Offensive Security Professional with 3+ years of hands-on experience in penetration testing, and red team operations. <b>OSCP</b>-certified and currently advancing in <b>malware development</b> to simulate advanced persistent threats.  
+  
+
 
 Successfully designed and delivered two enterprise-grade training programs (CPTP & CWASP) aligned with NCSC, CREST, and APMG standards. Led end-to-end penetration tests across internal and external environments, and built a 30+ machine cyber lab with Proxmox and OpenVPN to support realistic adversarial simulations. Skilled in engineering attack paths, exploiting critical vulnerabilities, and mentoring technical teams through high-impact training and hands-on simulations.
 
+
+# Projects
 <h2>Enterprise-Grade Offensive Security Training</h2>
 
 These programs were designed and delivered to meet international industry standards, ensuring participants gain practical, real-world skills in penetration testing and web application security. Both courses were aligned with leading global certification bodies, giving learners recognized credentials and trusted methodologies.
