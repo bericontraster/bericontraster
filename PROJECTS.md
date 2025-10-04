@@ -10,7 +10,7 @@ It highlights expertise in penetration testing, offensive security training, com
   -  [Certified Penetration Testing Professional (CPTP)](#certified-penetration-testing-professional-cptp)
   -  [Certified Web Application Security Professional (CWASP)](#certified-web-application-security-professional-cwasp)
 - [Enterprise Compliance & Monitoring Platform (Essential Eight)](#enterprise-compliance--monitoring-platform-essential-eight)
-- Cybersecurity Labs & Simulation Environments
+- [Cybersecurity Labs & Simulation Environments](#cybersecurity-labs--simulation-environments)
 
 
 ## Offensive Security Training Programs

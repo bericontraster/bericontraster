@@ -10,6 +10,7 @@ Successfully designed and delivered two enterprise-grade training programs (CPTP
 
 # Projects
 <h2>Enterprise-Grade Offensive Security Training</h2>
+<p><a href="https://example.com" target="_blank">View Details</a></p>
 
 These programs were designed and delivered to meet international industry standards, ensuring participants gain practical, real-world skills in penetration testing and web application security. Both courses were aligned with leading global certification bodies, giving learners recognized credentials and trusted methodologies.
 
