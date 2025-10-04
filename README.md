@@ -10,7 +10,6 @@ Successfully designed and delivered two enterprise-grade training programs (CPTP
 
 # Projects
 <h2>Enterprise-Grade Offensive Security Training</h2>
-<p><a href="https://example.com" target="_blank">View Details</a></p>
 
 These programs were designed and delivered to meet international industry standards, ensuring participants gain practical, real-world skills in penetration testing and web application security. Both courses were aligned with leading global certification bodies, giving learners recognized credentials and trusted methodologies.
 
@@ -22,6 +21,7 @@ These programs were designed and delivered to meet international industry standa
   - Designed and developed the complete CWASP course for [Tranchulas](https://tranchulas.com/).  
   - Delivered with official content rights from [NCSC](https://www.ncsc.gov.uk/), [CREST](https://www.crest-approved.org/), and [APMG International](https://apmg-international.com/).  
 
+<p><a href="https://github.com/bericontraster/bericontraster/blob/main/PROJECTS.md#offensive-security-training-programs" target="_blank">Learn More</a></p>
  
 <h2>Cybersecurity Labs & Simulation Environments</h2>
 
@@ -39,7 +39,9 @@ These programs were designed and delivered to meet international industry standa
 <h2>Compliance & Enterprise Security Solutions</h2>
 
 - <b>Enterprise Compliance & Monitoring Platform (Essential Eight)</b>  
-  - Designed and developed a full-scale Essential Eight compliance platform that can be deployed in enterprise environments to monitor and detect systems failing critical security controls.
+  - Designed and developed a full-scale Essential Eight compliance platform that can be deployed in enterprise environments to monitor and detect systems failing critical security controls.  
+
+  <p><a href="https://github.com/bericontraster/bericontraster/blob/main/PROJECTS.md#enterprise-compliance--monitoring-platform-essential-eight" target="_blank">Learn More</a></p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bericontraster) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mhamd-zubair) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bericontraster) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bericontraster) 
