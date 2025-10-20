@@ -1,4 +1,4 @@
-# Portfolio & Projects (Details)
+<!-- # Portfolio & Projects (Details)
 
 This repository showcases selected professional projects, labs, and security solutions I have designed and delivered.  
 It highlights expertise in penetration testing, offensive security training, compliance solutions, and enterprise-grade simulation environments.  
@@ -66,4 +66,4 @@ Architected and maintained a Proxmox-powered enterprise lab consisting of 30+ vi
     - Active Directory attacks (Kerberoasting, ACL abuse, lateral movement)  
     - Linux & Windows privilege escalation techniques  
     - SSRF and GraphQL exploitation scenarios  
-  - All labs are mapped to real-world attacker methodologies and integrated into classroom and practical exercises for CPTP and CWASP.
+  - All labs are mapped to real-world attacker methodologies and integrated into classroom and practical exercises for CPTP and CWASP. -->

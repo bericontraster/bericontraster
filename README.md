@@ -4,8 +4,7 @@
 Offensive Security Professional with 3+ years of hands-on experience in penetration testing, and red team operations. <b>OSCP</b>-certified and currently advancing in <b>malware development</b> to simulate advanced persistent threats.  
   
 
-
-Successfully designed and delivered two enterprise-grade training programs (CPTP & CWASP) aligned with NCSC, CREST, and APMG standards. Led end-to-end penetration tests across internal and external environments, and built a 30+ machine cyber lab with Proxmox and OpenVPN to support realistic adversarial simulations. Skilled in engineering attack paths, exploiting critical vulnerabilities, and mentoring technical teams through high-impact training and hands-on simulations.
+<!-- Successfully designed and delivered two enterprise-grade training programs (CPTP & CWASP) aligned with NCSC, CREST, and APMG standards. Led end-to-end penetration tests across internal and external environments, and built a 30+ machine cyber lab with Proxmox and OpenVPN to support realistic adversarial simulations. Skilled in engineering attack paths, exploiting critical vulnerabilities, and mentoring technical teams through high-impact training and hands-on simulations.
 
 
 # Projects
@@ -41,7 +40,7 @@ These programs were designed and delivered to meet international industry standa
 - <b>Enterprise Compliance & Monitoring Platform (Essential Eight)</b>  
   - Designed and developed a full-scale Essential Eight compliance platform that can be deployed in enterprise environments to monitor and detect systems failing critical security controls.  
 
-  <p><a href="https://github.com/bericontraster/bericontraster/blob/main/PROJECTS.md#enterprise-compliance--monitoring-platform-essential-eight" target="_blank">Learn More</a></p>
+  <p><a href="https://github.com/bericontraster/bericontraster/blob/main/PROJECTS.md#enterprise-compliance--monitoring-platform-essential-eight" target="_blank">Learn More</a></p> -->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bericontraster) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mhamd-zubair) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bericontraster) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bericontraster) 
