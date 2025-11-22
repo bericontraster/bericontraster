@@ -22,7 +22,6 @@ Designed and developed an end-to-end penetration testing curriculum aligned with
 
 Developed a complete web application security course mapped to modern offensive and defensive practices, aligned with publicly recognised guidance from NCSC, CREST, and APMG International.
 
---- 
 
 ## Cybersecurity Labs & Simulation Environments
 ### Proxmox-Based Virtual Lab Environment
@@ -41,7 +40,7 @@ Designed and deployed multiple purpose-built vulnerable applications and systems
 
 All environments were mapped to realistic adversary techniques and integrated into structured learning cycles and practical exercises.
 
-### Enterprise Compliance & Monitoring Platform
+## Enterprise Compliance & Monitoring Platform
 
 Designed and developed a scalable Essential Eight compliance monitoring platform capable of assessing enterprise systems for adherence to critical security controls.
 The solution automates detection of non-compliant hosts, generates actionable remediation insights, and supports continuous security posture improvement.
