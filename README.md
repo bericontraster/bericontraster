@@ -14,11 +14,9 @@ This portfolio reflects my personal skills, methodologies, and experience, while
 ### Enterprise-Grade Offensive Security Training
 These training programs were developed to meet recognised international standards and equip learners with practical, real-world offensive security skills. The courses were aligned with respected global certification bodies to ensure credibility and rigorous methodology.
 
-**Advanced Penetration Testing Program**  
-Designed and developed an end-to-end penetration testing curriculum aligned with standards published by NCSC, CREST, and APMG International, incorporating approved concepts and authorised learning materials where applicable.
+**Advanced Penetration Testing Program:** Designed and developed an end-to-end penetration testing curriculum aligned with standards published by NCSC, CREST, and APMG International, incorporating approved concepts and authorised learning materials where applicable.
 
-**Web Application Security Course**  
-Developed a complete web application security course mapped to modern offensive and defensive practices, aligned with publicly recognised guidance from NCSC, CREST, and APMG International.
+**Web Application Security Course:** Developed a complete web application security course mapped to modern offensive and defensive practices, aligned with publicly recognised guidance from NCSC, CREST, and APMG International.
 
 ### Proxmox-Based Virtual Lab Environment
 
