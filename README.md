@@ -2,45 +2,49 @@
 
 <h2>Summary</h2>
 Offensive Security Professional with 3+ years of hands-on experience in penetration testing, and red team operations. <b>OSCP</b>-certified and currently advancing in <b>malware development</b> to simulate advanced persistent threats.  
-  
 
-<!-- Successfully designed and delivered two enterprise-grade training programs (CPTP & CWASP) aligned with NCSC, CREST, and APMG standards. Led end-to-end penetration tests across internal and external environments, and built a 30+ machine cyber lab with Proxmox and OpenVPN to support realistic adversarial simulations. Skilled in engineering attack paths, exploiting critical vulnerabilities, and mentoring technical teams through high-impact training and hands-on simulations.
+## Disclaimer
+All project names, client organisations, and sources are intentionally anonymised. The material presented is a generalised representation of work I have performed, ensuring that no confidential information, internal documentation, or employer-specific assets are disclosed.
 
+Any references to industry bodies such as NCSC, CREST, or APMG International indicate alignment with publicly available standards or the use of authorised material where permitted. Nothing in this portfolio suggests access to, or reproduction of, proprietary or restricted content from these organisations.
 
-# Projects
-<h2>Enterprise-Grade Offensive Security Training</h2>
+This portfolio reflects my personal skills, methodologies, and experience, while fully respecting NDAs, licensing agreements, and professional confidentiality requirements.
 
-These programs were designed and delivered to meet international industry standards, ensuring participants gain practical, real-world skills in penetration testing and web application security. Both courses were aligned with leading global certification bodies, giving learners recognized credentials and trusted methodologies.
+## Projects
+### Enterprise-Grade Offensive Security Training
+These training programs were developed to meet recognised international standards and equip learners with practical, real-world offensive security skills. The courses were aligned with respected global certification bodies to ensure credibility and rigorous methodology.
 
-- <b>Certified Penetration Testing Professional (CPTP)</b>  
-  - Designed and developed the full CPTP course for [Tranchulas](https://tranchulas.com/).  
-  - Delivered with official content rights from [NCSC](https://www.ncsc.gov.uk/), [CREST](https://www.crest-approved.org/), and [APMG International](https://apmg-international.com/).  
+### Advanced Penetration Testing Program
 
-- <b>Certified Web Application Security Professional (CWASP)</b>  
-  - Designed and developed the complete CWASP course for [Tranchulas](https://tranchulas.com/).  
-  - Delivered with official content rights from [NCSC](https://www.ncsc.gov.uk/), [CREST](https://www.crest-approved.org/), and [APMG International](https://apmg-international.com/).  
+Designed and developed an end-to-end penetration testing curriculum aligned with standards published by NCSC, CREST, and APMG International, incorporating approved concepts and authorised learning materials where applicable.
 
-<p><a href="https://github.com/bericontraster/bericontraster/blob/main/PROJECTS.md#offensive-security-training-programs" target="_blank">Learn More</a></p>
- 
-<h2>Cybersecurity Labs & Simulation Environments</h2>
+### Web Application Security Course
 
-- <b>Proxmox-Based Virtual Lab Environment</b>  ![Proxmox](https://img.shields.io/badge/Proxmox-333333?style=plastic&logo=proxmox&logoColor=E57000)  
-  - Architected and maintained a Proxmox-powered enterprise lab consisting of 30+ virtual machines across segmented networks, with snapshotting and attack-path orchestration for red-teaming and malware analysis. Secure remote access is provided via a custom [OpenVPN](https://medium.com/@bericontraster/step-by-step-guide-setting-up-and-troubleshooting-openvpn-on-ubuntu-24-04-513b2341934e) gateway.  
+Developed a complete web application security course mapped to modern offensive and defensive practices, aligned with publicly recognised guidance from NCSC, CREST, and APMG International.
 
-- <b>Custom Vulnerable Lab Development</b>  
-  - Designed and deployed multiple purpose-built vulnerable applications and services to support hands-on training and realistic assessments, including:  
-    - Web app exploitation (XSS, SQLi, SSTI, IDOR)  
-    - Active Directory attacks (Kerberoasting, ACL abuse, lateral movement)  
-    - Linux & Windows privilege escalation techniques  
-    - SSRF and GraphQL exploitation scenarios  
-  - All labs are mapped to real-world attacker methodologies and integrated into classroom and practical exercises for CPTP and CWASP.
+--- 
 
-<h2>Compliance & Enterprise Security Solutions</h2>
+## Cybersecurity Labs & Simulation Environments
+### Proxmox-Based Virtual Lab Environment
 
-- <b>Enterprise Compliance & Monitoring Platform (Essential Eight)</b>  
-  - Designed and developed a full-scale Essential Eight compliance platform that can be deployed in enterprise environments to monitor and detect systems failing critical security controls.  
+Built and maintained a Proxmox-powered enterprise lab environment consisting of 30+ virtual machines distributed across segmented network zones.  
+The platform supports snapshot-driven attack simulations, red-team exercises, malware analysis, and remote student access.
+Secure connectivity is provided through a custom OpenVPN gateway.
 
-  <p><a href="https://github.com/bericontraster/bericontraster/blob/main/PROJECTS.md#enterprise-compliance--monitoring-platform-essential-eight" target="_blank">Learn More</a></p> -->
+### Custom Vulnerable Lab Development
+Designed and deployed multiple purpose-built vulnerable applications and systems for hands-on training and practical assessments. These labs include scenarios covering:
+
+- Web exploitation (XSS, SQLi, SSTI, IDOR)
+- Active Directory attack chains (Kerberoasting, ACL abuse, lateral movement)
+- Windows & Linux privilege escalation
+- SSRF and GraphQL exploitation
+
+All environments were mapped to realistic adversary techniques and integrated into structured learning cycles and practical exercises.
+
+### Enterprise Compliance & Monitoring Platform
+
+Designed and developed a scalable Essential Eight compliance monitoring platform capable of assessing enterprise systems for adherence to critical security controls.
+The solution automates detection of non-compliant hosts, generates actionable remediation insights, and supports continuous security posture improvement.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bericontraster) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mhamd-zubair) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bericontraster) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bericontraster) 
