@@ -1,12 +1,10 @@
 <h1>Hi, I'm Muhammad Zubair! <br> <a href="https://www.credential.net/677f4c26-3f2b-4a12-9b14-dbb45565d6a8#acc.BstT7jig">Offensive Security Professional</a></h1>
 
 <h2>Summary</h2>
-Offensive Security Professional with 3+ years of hands-on experience in penetration testing, and red team operations. <b>OSCP</b>-certified and currently advancing in <b>malware development</b> to simulate advanced persistent threats.  
+Offensive Security Professional with 3+ years of hands-on experience in penetration testing and red team operations. <b>OSCP</b>-certified and currently advancing in <b>malware development</b> to simulate advanced persistent threats.  
 
 ## Disclaimer
 All project names, client organisations, and sources are intentionally anonymised. The material presented is a generalised representation of work I have performed, ensuring that no confidential information, internal documentation, or employer-specific assets are disclosed.
-
-Any references to industry bodies such as NCSC, CREST, or APMG International indicate alignment with publicly available standards or the use of authorised material where permitted. Nothing in this portfolio suggests access to, or reproduction of, proprietary or restricted content from these organisations.
 
 This portfolio reflects my personal skills, methodologies, and experience, while fully respecting NDAs, licensing agreements, and professional confidentiality requirements.
 
@@ -14,9 +12,9 @@ This portfolio reflects my personal skills, methodologies, and experience, while
 ### Enterprise-Grade Offensive Security Training
 These training programs were developed to meet recognised international standards and equip learners with practical, real-world offensive security skills. The courses were aligned with respected global certification bodies to ensure credibility and rigorous methodology.
 
-**Advanced Penetration Testing Program:** Designed and developed an end-to-end penetration testing curriculum aligned with standards published by NCSC, CREST, and APMG International, incorporating approved concepts and authorised learning materials where applicable.
+**Advanced Penetration Testing Program:** Designed and developed an end-to-end penetration testing curriculum, incorporating approved concepts and authorised learning materials where applicable.
 
-**Web Application Security Course:** Developed a complete web application security course mapped to modern offensive and defensive practices, aligned with publicly recognised guidance from NCSC, CREST, and APMG International.
+**Web Application Security Course:** Developed a complete web application security course mapped to modern offensive and defensive practices.
 
 ### Proxmox-Based Virtual Lab Environment
 
