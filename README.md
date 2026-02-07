@@ -4,9 +4,9 @@
 Offensive Security Professional with 3+ years of hands-on experience in penetration testing and red team operations. <b>OSCP</b>-certified and currently advancing in <b>malware development</b> to simulate advanced persistent threats.  
 
 ## Disclaimer
-All project names, client organisations, and sources are intentionally anonymised. The material presented is a generalised representation of work I have performed, ensuring that no confidential information, internal documentation, or employer-specific assets are disclosed.
+> All project names, client organisations, and sources are intentionally anonymised. The material presented is a generalised representation of work I have performed, ensuring that no confidential information, internal documentation, or employer-specific assets are disclosed.
 
-This portfolio reflects my personal skills, methodologies, and experience, while fully respecting NDAs, licensing agreements, and professional confidentiality requirements.
+> This portfolio reflects my personal skills, methodologies, and experience, while fully respecting NDAs, licensing agreements, and professional confidentiality requirements.
 
 ## Projects
 ### Enterprise-Grade Offensive Security Training
